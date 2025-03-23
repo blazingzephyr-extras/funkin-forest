@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				-85
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "LeafBlower Note Left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				-85
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "LeafBlower Note Left Miss0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				-85
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "LeafBlower Note Right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				-85
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "LeafBlower Note Right Miss0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				12,
+				-85
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "LeafBlower Note Up0"
+		},
+		{
+			"offsets": [
+				12,
+				-85
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "LeafBlower Note Up Miss0"
+		},
+		{
+			"offsets": [
+				13,
+				-85
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "LeafBlower Note Down0"
+		},
+		{
+			"offsets": [
+				13,
+				-85
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "LeafBlower Note Down Miss0"
+		},
+		{
+			"offsets": [
+				5,
+				-85
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "LeafBlower Idle Dance0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/leaf-blower-2",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "leaf-blower-2",
+	"flip_x": true,
+	"healthbar_colors": [
+		185,
+		92,
+		0
+	],
+	"camera_position": [
+		220,
+		0
+	],
+	"sing_duration": 4.5,
+	"scale": 1
+}

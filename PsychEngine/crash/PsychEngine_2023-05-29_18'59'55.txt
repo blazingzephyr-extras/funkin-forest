@@ -1,0 +1,16 @@
+flixel/graphics/frames/FlxAtlasFrames.hx (line 250)
+editors/DialogueCharacterEditorState.hx (line 427)
+editors/DialogueCharacterEditorState.hx (line 418)
+editors/DialogueCharacterEditorState.hx (line 211)
+flixel/addons/ui/FlxUICheckBox.hx (line 291)
+flixel/ui/FlxButton.hx (line 521)
+flixel/addons/ui/FlxUITypedButton.hx (line 1172)
+flixel/addons/ui/FlxUIButton.hx (line 362)
+flixel/ui/FlxButton.hx (line 507)
+openfl/events/EventDispatcher.hx (line 402)
+openfl/display/DisplayObject.hx (line 1399)
+
+Uncaught Error: Null Object Reference
+Please report this error to the GitHub page: https://github.com/ShadowMario/FNF-PsychEngine
+
+> Crash Handler written by: sqirra-rng

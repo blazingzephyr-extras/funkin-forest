@@ -1,0 +1,31 @@
+{
+	"storyName": "Grotesque Grove ft. Leaf Blower",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "week_f",
+	"freeplayColor": [
+		191,
+		80,
+		24
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"leaf-blower",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Blown Off",
+			"leaf-blower-1",
+			[
+				191,
+				80,
+				24
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Week F"
+}

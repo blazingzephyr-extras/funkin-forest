@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "M LeafBlower Press",
+	"idle_anim": "M LeafBlower Idle",
+	"position": [
+		95,
+		-60
+	],
+	"scale": 0.735,
+	"image": "Menu_LeafBlower",
+	"flipX": true
+}

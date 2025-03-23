@@ -1,0 +1,21 @@
+C:\HaxeToolkit\haxe\std/haxe/xml/Parser.hx (line 243)
+C:\HaxeToolkit\haxe\std/haxe/xml/Parser.hx (line 285)
+C:\HaxeToolkit\haxe\std/haxe/xml/Parser.hx (line 117)
+C:\HaxeToolkit\haxe\std/Xml.hx (line 122)
+flixel/graphics/frames/FlxAtlasFrames.hx (line 250)
+Character.hx (line 164)
+editors/CharacterEditorState.hx (line 925)
+editors/CharacterEditorState.hx (line 434)
+FlxUIDropDownMenuCustom.hx (line 512)
+FlxUIDropDownMenuCustom.hx (line 361)
+flixel/ui/FlxButton.hx (line 521)
+flixel/addons/ui/FlxUITypedButton.hx (line 1172)
+flixel/addons/ui/FlxUIButton.hx (line 362)
+flixel/ui/FlxButton.hx (line 507)
+openfl/events/EventDispatcher.hx (line 402)
+openfl/display/DisplayObject.hx (line 1399)
+
+Uncaught Error: haxe.xml.XmlParserException: Duplicate attribute [width] at line 4 char 110
+Please report this error to the GitHub page: https://github.com/ShadowMario/FNF-PsychEngine
+
+> Crash Handler written by: sqirra-rng

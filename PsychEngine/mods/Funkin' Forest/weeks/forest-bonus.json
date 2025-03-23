@@ -1,0 +1,41 @@
+{
+	"storyName": "",
+	"difficulties": "",
+	"weekBackground": "",
+	"hideFreeplay": false,
+	"weekBefore": "week-f",
+	"freeplayColor": [
+		191,
+		80,
+		24
+	],
+	"startUnlocked": false,
+	"songs": [
+		[
+			"Roasted",
+			"leaf-blower-2",
+			[
+				191,
+				80,
+				24
+			]
+		],
+		[
+			"Coupon",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Funkin' Forest: Bonus Songs",
+	"hiddenUntilUnlocked": true
+}

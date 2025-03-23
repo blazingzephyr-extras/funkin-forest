@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="leaf-blower-dialogue.png">
+	<SubTexture name="LEAF0000" x="4" y="4" width="402" height="407" pivotX="-66.25" pivotY="-60.45"/>
+	<SubTexture name="LEAF0001" x="4" y="4" width="402" height="407"/>
+	<SubTexture name="LEAF LOOP0000" x="3684" y="4" width="404" height="421" pivotX="-65.05" pivotY="-46.6"/>
+	<SubTexture name="LEAF LOOP0001" x="3684" y="4" width="404" height="421"/>
+	<SubTexture name="LEAF LOOP0002" x="4" y="430" width="402" height="415" frameX="0" frameY="-6" frameWidth="404" frameHeight="421"/>
+	<SubTexture name="LEAF LOOP0003" x="4" y="430" width="402" height="415" frameX="0" frameY="-6" frameWidth="404" frameHeight="421"/>
+	<SubTexture name="LEAF LOOP0004" x="410" y="430" width="402" height="407" frameX="-1" frameY="-14" frameWidth="404" frameHeight="421"/>
+	<SubTexture name="LEAF LOOP0005" x="410" y="430" width="402" height="407" frameX="-1" frameY="-14" frameWidth="404" frameHeight="421"/>
+	<SubTexture name="LEAF SHOCK0000" x="1979" y="430" width="396" height="407" pivotX="-72.35" pivotY="-60.45"/>
+	<SubTexture name="LEAF SHOCK0001" x="2379" y="430" width="396" height="407"/>
+	<SubTexture name="LEAF SHOCK LOOP0000" x="2779" y="430" width="400" height="421" pivotX="-69.3" pivotY="-46.6"/>
+	<SubTexture name="LEAF SHOCK LOOP0001" x="3183" y="430" width="400" height="421"/>
+	<SubTexture name="LEAF SHOCK LOOP0002" x="3587" y="430" width="395" height="415" frameX="-3" frameY="-6" frameWidth="400" frameHeight="421"/>
+	<SubTexture name="LEAF SHOCK LOOP0003" x="4" y="855" width="395" height="415" frameX="-3" frameY="-6" frameWidth="400" frameHeight="421"/>
+	<SubTexture name="LEAF SHOCK LOOP0004" x="403" y="855" width="396" height="407" frameX="-3" frameY="-14" frameWidth="400" frameHeight="421"/>
+	<SubTexture name="LEAF SHOCK LOOP0005" x="803" y="855" width="396" height="407" frameX="-3" frameY="-14" frameWidth="400" frameHeight="421"/>
+</TextureAtlas>
